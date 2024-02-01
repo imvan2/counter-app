@@ -8,6 +8,8 @@ import { Amplify } from "aws-amplify";
 import { generateClient } from "aws-amplify/api";
 import awsconfig from "./amplifyconfiguration.json";
 
+import party from "party-js";
+
 Amplify.configure(awsconfig);
 
 const client = generateClient();
@@ -62,7 +64,14 @@ const App = () => {
     <>
       <div className="container">
         <h1>{number}</h1>
-        <button onClick={handleClick}>Click me</button>
+        <button
+          onClick={(event) => {
+            handleClick();
+            party.confetti(event.target);
+          }}
+        >
+          Click me
+        </button>
       </div>
     </>
   );
