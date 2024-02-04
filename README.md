@@ -12,3 +12,6 @@ Backend is AWS Amplify with GraphQL API and DynamoDB
 
 ### Website
 https://main.d36x5t1ukdbyfp.amplifyapp.com/
+
+#### Websites used
+https://aws.amazon.com/getting-started/hands-on/build-react-app-amplify-graphql/
