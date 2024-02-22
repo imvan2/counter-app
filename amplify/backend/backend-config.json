@@ -7,7 +7,9 @@
           "additionalAuthenticationProviders": [],
           "defaultAuthentication": {
             "apiKeyConfig": {
-              "apiKeyExpirationDays": 7
+              "apiKeyExpirationDate": "2025-02-11T19:46:56.488Z",
+              "apiKeyExpirationDays": 365,
+              "description": "graphql api key"
             },
             "authenticationType": "API_KEY"
           }

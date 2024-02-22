@@ -4,14 +4,20 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 Backend is AWS Amplify with GraphQL API and DynamoDB
 
 ## Scripts
-``` npm install ```
-``` npm start ```
-``` amplify push ``` (updates the backend environments)
 
-``` git push ``` (updates deployed frontend)
+`npm install`
+`npm start`
+`amplify push` (updates the backend environments)
+
+`git push` (updates deployed frontend)
 
 ### Website
+
 https://main.d36x5t1ukdbyfp.amplifyapp.com/
 
 #### Websites used
+
 https://aws.amazon.com/getting-started/hands-on/build-react-app-amplify-graphql/
+
+For websockets:
+https://www.youtube.com/watch?v=4Uwq0xB30JE&ab_channel=AblyRealtime

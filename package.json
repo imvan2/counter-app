@@ -8,11 +8,18 @@
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
     "aws-amplify": "^6.0.13",
+    "http": "^0.0.1-security",
+    "lodash.throttle": "^4.1.1",
     "party-js": "^2.2.0",
+    "perfect-cursors": "^1.0.5",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-scripts": "5.0.1",
-    "web-vitals": "^2.1.4"
+    "react-use-websocket": "^4.7.0",
+    "uuid": "^9.0.1",
+    "web-vitals": "^2.1.4",
+    "websocket": "^1.0.34",
+    "ws": "^8.16.0"
   },
   "scripts": {
     "start": "react-scripts start",
