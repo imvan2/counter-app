@@ -13,7 +13,7 @@ Backend is AWS Amplify with GraphQL API and DynamoDB
 
 ### Website
 
-https://main.d36x5t1ukdbyfp.amplifyapp.com/
+https://main.d36x5t1ukdbyfp.amplifyapp.com/ (I have no money to keep this site live, please forgive me. :-) )
 
 #### Websites used
 
